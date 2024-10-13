@@ -1,2 +1,2 @@
-nokianokia/mambavision
-dustynv/mambavision
+nokianokia/mambavision:cls
+dustynv/mambavision:r36.3.0
